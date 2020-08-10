@@ -8,7 +8,7 @@ pakketinstall <- function(pkg) {
 
 # Installeren en libraries inladen 
 packages <- c("...") 
-pakketinstall(packages)
+pakketinstall(packages) 
 
 # Gebruikte pakketten in data prep, clean, analyse (tot aan RandomForest)
 
